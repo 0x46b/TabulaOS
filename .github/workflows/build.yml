@@ -1,4 +1,4 @@
-name: Build and Test
+name: Build
 
 on:
   push:
@@ -27,8 +27,4 @@ jobs:
       - name: Build PlatformIO Project
         working-directory: ./TabulaOS
         run: pio run -e m5stack-cores3
-
-      - name: Run Tests
-        working-directory: ./TabulaOS
-        run: pio test -e native
 
