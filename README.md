@@ -1,1 +1,2 @@
-[![Build and Test](https://github.com/0x46b/TabulaOS/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/0x46b/TabulaOS/actions/workflows/c-cpp.yml)
+[![Build](https://github.com/0x46b/TabulaOS/actions/workflows/build.yml/badge.svg)](https://github.com/0x46b/TabulaOS/actions/workflows/build.yml)
+[![Run Tests](https://github.com/0x46b/TabulaOS/actions/workflows/tests.yaml/badge.svg)](https://github.com/0x46b/TabulaOS/actions/workflows/tests.yaml)
